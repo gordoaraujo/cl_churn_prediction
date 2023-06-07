@@ -39,5 +39,5 @@ create another "setup.md" file and link to it here*
 
 ## Contributing Members
 * [Jose Araujo](https://github.com/gordoaraujo)
-* [Ena Dewan](https://github.com/[github handle])
+* [Ena Dewan](https://github.com/enadewan)
 * [Alaa Elshorbagy](https://github.com/AlaaElshorbagy)

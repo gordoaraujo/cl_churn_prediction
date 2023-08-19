@@ -26,7 +26,6 @@ The dataset offers an opportunity to explore predictive modeling for customer ch
 * Python
 * Pandas, Numpy, Scipy
 * Sklearn, 
-* COMPLEMENT
 
 ## Contributing Members
 * [Jose Araujo](https://github.com/gordoaraujo)

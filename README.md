@@ -1,7 +1,5 @@
 # Data Challenge -- Telcom Churn Prediction
 
-This repository contains a dataset of telecom customers for predicting customer churn. The dataset is also available on Kaggle and comprises data on 5,986 customers.
-
 ## Objective
 The main objective of this project is to predict which customers are likely to churn. By analyzing customer data, we aim to identify the attributes that contribute to customer churn.
 

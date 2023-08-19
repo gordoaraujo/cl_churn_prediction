@@ -5,8 +5,6 @@ The main objective of this project is to predict which customers are likely to c
 
 ## About the Dataset
 Dataset of telecom customers for predicting customer churn. The dataset is available on Kaggle(https://www.kaggle.com/datasets/blastchar/telco-customer-churn) and comprises data on 5,986 customers.
-### Context
-"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." - IBM Sample Data Sets
 
 ###  Content
 Each row in the dataset represents a customer, and each column contains customer attributes described in the column metadata. The dataset provides information about:

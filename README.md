@@ -1,13 +1,24 @@
 # Data Challenge -- Telcom Churn Prediction
 
-## Goal
+This repository contains a dataset of telecom customers for predicting customer churn. The dataset is also available on Kaggle and comprises data on 5,986 customers.
 
+## Objective
+The main objective of this project is to predict which customers are likely to churn. By analyzing customer data, we aim to identify the attributes that contribute to customer churn.
 
-## Project Intro/Objective
-The purpose of this project is XXXX
+## About the Dataset
+Dataset of telecom customers for predicting customer churn. The dataset is available on Kaggle(https://www.kaggle.com/datasets/blastchar/telco-customer-churn) and comprises data on 5,986 customers.
+### Context
+"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." - IBM Sample Data Sets
 
-## Project Questions
+###  Content
+Each row in the dataset represents a customer, and each column contains customer attributes described in the column metadata. The dataset provides information about:
 
+Customers who left within the last month (Churn column)
+Services signed up by each customer, including phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
+Customer account information, such as tenure, contract type, payment method, paperless billing, monthly charges, and total charges
+Demographic information about customers, including gender, age range, and whether they have partners and dependents
+Inspiration
+The dataset offers an opportunity to explore predictive modeling for customer churn. By analyzing this data, you can gain insights into building models that predict customer behavior and contribute to customer retention strategies.
 
 ## Methods Used
 * Machine Learning (Supervised / Unsupervised Learning)
@@ -19,23 +30,6 @@ The purpose of this project is XXXX
 * Pandas, Numpy, Scipy
 * Sklearn, 
 * COMPLEMENT
-
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages)
-create another "setup.md" file and link to it here*
-
-5. Follow setup [instructions](Link to file)
-
-## Project Status: Active
 
 ## Contributing Members
 * [Jose Araujo](https://github.com/gordoaraujo)

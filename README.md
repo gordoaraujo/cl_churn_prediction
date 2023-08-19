@@ -17,6 +17,7 @@ Inspiration
 The dataset offers an opportunity to explore predictive modeling for customer churn. By analyzing this data, you can gain insights into building models that predict customer behavior and contribute to customer retention strategies.
 
 ## Methods Used
+* Auto ML - PyCaret
 * Machine Learning (Supervised / Unsupervised Learning)
 * Data Visualization
 * Predictive Modeling
